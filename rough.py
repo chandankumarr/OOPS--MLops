@@ -12,7 +12,8 @@ my_int = 155
 # b = 'y'
 # print(a+b)
 
-from oops_proj import chatbook
+from oopsproj import chatbook
+
 user1 = chatbook()
 print(user1.id)
 
